@@ -1,6 +1,5 @@
 /***additional commit
 ////
-$$$$$ 
 /**
  * @author Crunchify.com
  *
